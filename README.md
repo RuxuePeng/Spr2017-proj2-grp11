@@ -49,7 +49,7 @@ The last part is "Motion Chart", in which you can see the dynamic change of two 
 ![screenshot](https://cloud.githubusercontent.com/assets/25423915/23311918/c13cf706-fa85-11e6-991d-842728323d21.png)
 
 The above demonstation are mainly what we built for this app. 
-
+[Our app](https://prayerest.shinyapps.io/ShinyApp-Proj2/)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
